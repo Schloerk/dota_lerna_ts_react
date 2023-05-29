@@ -1,0 +1,5 @@
+{
+    "compilerOptions": {
+        "types": ["@moddota/panorama-types", "@moddota/dota-lua-types/normalized"],
+    }
+}

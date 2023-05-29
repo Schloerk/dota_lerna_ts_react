@@ -1,0 +1,17 @@
+{
+    "include": ["./src"],
+    "compilerOptions": {
+        "target": "es2017",
+        "lib": ["es2017"],
+        "outDir": "./dist",
+        "rootDirs": [
+            ".",
+        ],
+        "resolveJsonModule": true,
+        "moduleResolution": "node",
+        "strict": false,
+        "preserveSymlinks": false,
+        "allowSyntheticDefaultImports": true,
+        "types": ["@moddota/panorama-types"]
+    }
+}

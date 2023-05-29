@@ -1,0 +1,13 @@
+"DOTAUnits"
+{
+	"wearable_dummy"
+	{
+		"BaseClass"					"npc_dota_base_additive"
+	}
+
+	"cast_dummy"
+	{
+		"BaseClass"					"npc_dota_creature"
+		"Ability1"					"dummy_unit_ability"
+	}
+}
