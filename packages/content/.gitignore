@@ -19,3 +19,4 @@ panorama_debugger.cfg
 dota/panorama/layout/**/*.xml
 dota/panorama/layout/**/*.js
 dota/panorama/layout/**/*.css
+!dota/panorama/layout/custom_game/custom_ui_manifest.xml
